@@ -3,6 +3,7 @@ import QtQuick 2.0
 
 App {
     // My first github project
+    // more comments
     // You get free licenseKeys from https://felgo.com/licenseKey
     // With a licenseKey you can:
     //  * Publish your games & apps for the app stores
