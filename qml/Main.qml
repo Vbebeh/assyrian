@@ -14,7 +14,7 @@ App {
     NavigationStack {
 
         Page {
-            title: qsTr("Main Page")
+            title: qsTr("Vio")
 
             Image {
                 source: "../assets/felgo-logo.png"
